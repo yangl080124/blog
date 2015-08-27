@@ -116,7 +116,6 @@ disqus:
 #################################### global configure #######################################
 
 username: wfiskz
-baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
