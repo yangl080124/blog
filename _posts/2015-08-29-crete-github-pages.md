@@ -30,10 +30,10 @@ github pages 是用于用户的个人主页或者项目的主页。
 首先进入主页
 
 ```java
-	填写仓库名字。
-	Description可以不写。
-	直接点击create repository。
-	里面有很多英文api。
+	填写仓库名字
+	Description可以不写
+	直接点击create repository
+	创建的时候有一些标记介绍，后面我会对这块单独分享出来。
 ```
 <figure>
    <a href="http://chiemyblog.qiniudn.com/xandroid_viewhierarchy10.png.pagespeed.ic.nQTkkQQ3Y8.png"><img src="http://chiemyblog.qiniudn.com/xandroid_viewhierarchy10.png.pagespeed.ic.nQTkkQQ3Y8.png"></a>
@@ -43,15 +43,15 @@ github pages 是用于用户的个人主页或者项目的主页。
 - 利用别人提供的主题来创建博客
 
 ```java
-	填写仓库名字。
-	Description可以不写。
-	直接点击create repository。
+	填写仓库名字
+	Description可以不写
+	直接点击create repository
 ```
 
 - 自己实现
 
 ```java
-	填写仓库名字。
-	Description可以不写。
-	直接点击create repository。
+	填写仓库名字
+	Description可以不写
+	直接点击create repository
 ```
