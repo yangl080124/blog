@@ -36,7 +36,27 @@ github pages 是用于用户的个人主页或者项目的主页。
 	创建的时候有一些标记介绍,后面我会对这块单独分享出来
 ```
 <figure>
-   <img src="http://chiemyblog.qiniudn.com/xandroid_viewhierarchy10.png.pagespeed.ic.nQTkkQQ3Y8.png"></a>
+   <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/brief_introduction.png"></a>
+   <figcaption></figcaption>
+</figure>
+<figure>
+   <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/create_repositories.png"></a>
+   <figcaption></figcaption>
+</figure>
+<figure>
+   <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/cteate_pages.png"></a>
+   <figcaption></figcaption>
+</figure>
+<figure>
+   <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/edit_info.png"></a>
+   <figcaption></figcaption>
+</figure>
+<figure>
+   <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/sel_settings.png"></a>
+   <figcaption></figcaption>
+</figure>
+<figure>
+   <img src="https://github.com/wfiskz/blog/blob/gh-pages/res/success.png"></a>
    <figcaption></figcaption>
 </figure>
 
