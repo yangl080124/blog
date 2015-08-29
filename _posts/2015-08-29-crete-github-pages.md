@@ -29,16 +29,16 @@ github pages 是用于用户的个人主页或者项目的主页。
 - 简单创建博客
 首先进入主页
 
-```java
+
 	填写仓库名字
 	Description可以不写
 	直接点击create repository
 	创建的时候有一些标记介绍,后面我会对这块单独分享出来
-```
 
-```java
+
+
 	创建仓库
-```
+
 
 <figure>
    <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/create_repositories.png"></a>
@@ -46,9 +46,9 @@ github pages 是用于用户的个人主页或者项目的主页。
 </figure>
 
 
-```java
+
 	填写仓库信息
-```
+
 
 
 <figure>
@@ -57,9 +57,8 @@ github pages 是用于用户的个人主页或者项目的主页。
 </figure>
 
 
-```java
+
 	点击设置
-```
 
 
 <figure>
@@ -68,13 +67,13 @@ github pages 是用于用户的个人主页或者项目的主页。
 </figure>
 
 
-```java
+
 	注意
 	- Default branch这个是master
 	- 而创建的pages是只能在gh-pages下才可以创建博客的
 	- 进入后点击Contlnue to layouts
 	此处只是提醒，直接点击 Launch automatlc page generator
-```
+
 
 <figure>
    <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/cteate_pages.png"></a>
@@ -82,9 +81,8 @@ github pages 是用于用户的个人主页或者项目的主页。
 </figure>
 
 
-```java
 	Publlsh page
-```
+
 
 
 <figure>
@@ -95,16 +93,12 @@ github pages 是用于用户的个人主页或者项目的主页。
 
 - 利用别人提供的主题来创建博客
 
-```java
-	填写仓库名字
-	Description可以不写
-	直接点击create repository
-```
+
+	
+
 
 - 自己实现
 
-```java
-	填写仓库名字
-	Description可以不写
-	直接点击create repository
-```
+
+	
+
