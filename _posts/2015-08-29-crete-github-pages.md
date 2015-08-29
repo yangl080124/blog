@@ -35,30 +35,62 @@ github pages 是用于用户的个人主页或者项目的主页。
 	直接点击create repository
 	创建的时候有一些标记介绍,后面我会对这块单独分享出来
 ```
-<figure>
-   <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/brief_introduction.png"></a>
-   <figcaption></figcaption>
-</figure>
+
+```java
+	创建仓库
+```
+
 <figure>
    <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/create_repositories.png"></a>
    <figcaption></figcaption>
 </figure>
-<figure>
-   <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/cteate_pages.png"></a>
-   <figcaption></figcaption>
-</figure>
+
+
+```java
+	填写仓库信息
+```
+
+
 <figure>
    <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/edit_info.png"></a>
    <figcaption></figcaption>
 </figure>
+
+
+```java
+	点击设置
+```
+
+
 <figure>
    <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/sel_settings.png"></a>
    <figcaption></figcaption>
 </figure>
+
+
+```java
+	注意
+	- Default branch这个是'master' 
+	- 而创建的pages是只能在gh-pages下才可以创建博客的
+	- 进入后点击'Contlnue to layouts'
+```
+
+<figure>
+   <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/res/cteate_pages.png"></a>
+   <figcaption></figcaption>
+</figure>
+
+
+```java
+	Publlsh page
+```
+
+
 <figure>
    <img src="https://github.com/wfiskz/blog/blob/gh-pages/res/success.png"></a>
    <figcaption></figcaption>
 </figure>
+
 
 - 利用别人提供的主题来创建博客
 
