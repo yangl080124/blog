@@ -36,7 +36,7 @@ github pages 是用于用户的个人主页或者项目的主页。
 	创建的时候有一些标记介绍,后面我会对这块单独分享出来
 ```
 <figure>
-   <a href="http://chiemyblog.qiniudn.com/xandroid_viewhierarchy10.png.pagespeed.ic.nQTkkQQ3Y8.png"><img src="http://chiemyblog.qiniudn.com/xandroid_viewhierarchy10.png.pagespeed.ic.nQTkkQQ3Y8.png"></a>
+   <img src="http://chiemyblog.qiniudn.com/xandroid_viewhierarchy10.png.pagespeed.ic.nQTkkQQ3Y8.png"></a>
    <figcaption></figcaption>
 </figure>
 
