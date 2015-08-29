@@ -70,9 +70,9 @@ github pages 是用于用户的个人主页或者项目的主页。
 
 ```java
 	注意
-	- Default branch这个是’master’ 
+	- Default branch这个是master
 	- 而创建的pages是只能在gh-pages下才可以创建博客的
-	- 进入后点击’Contlnue to layouts’
+	- 进入后点击Contlnue to layouts
 	此处只是提醒，直接点击 Launch automatlc page generator
 ```
 
