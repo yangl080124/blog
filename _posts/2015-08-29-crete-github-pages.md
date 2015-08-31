@@ -101,6 +101,8 @@ github pages 是用于用户的个人主页或者项目的主页。
 
 - 利用别人提供的主题来创建博客  
 
+推荐一篇介绍github + Jekyll的文章，里面详细介绍了Jekyll的工作流程<a href="http://blog.csdn.net/on_1y/article/details/19259435">http://blog.csdn.net/on_1y/article/details/19259435</a>
+
 这些是一些<a href="https://github.com/jekyll/jekyll/wiki/Sites">总结的开源库</a>，选择一个自己喜欢的，fork一下。
 
 
