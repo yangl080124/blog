@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 利用github创建自己的博客。
+title: 利用github创建自己的博客
 category: share
 comments: true
 ---
