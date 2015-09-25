@@ -21,7 +21,7 @@ studio提供了我们快速开发模板，首先先看下这位同学做的模�
    <figcaption></figcaption>
 </figure>
 
-+号代表添加新的模板，可以在任意的模块下进行添加，但建议在android或者use下添加。
++号代表添加新的模板，可以在任意的模块下进行添加，但建议在android或者user下添加。
 
 <figure>
    <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/images/2015-9-25/custom.png"></a>
@@ -49,7 +49,7 @@ studio提供了我们快速开发模板，首先先看下这位同学做的模�
    <figcaption></figcaption>
 </figure>
 
-这个图是我只修改了系统的名字，内容没有修改。$这里的问题我觉得可以是变化的，不是固定的，只是更好的识别这个的作用，不同的意见可以联系我$
+这个图是我只修改了系统的名字，内容没有修改。$cast$这里的问题我觉得可以是变化的，不是固定的，只是更好的识别这个的作用。知道的童鞋可以告诉我,3q。
 
 
 邮件：*root@fiskz.com*
