@@ -43,4 +43,15 @@ studio提供了我们快速开发模板，首先先看下这位同学做的模�
 </figure>
 
 
+如果你还是不能理解，你可以查看studio定义的，他能给我们很多很好的启发。
+<figure>
+   <img src="https://raw.githubusercontent.com/wfiskz/blog/gh-pages/images/2015-9-25/system_moban.png"></a>
+   <figcaption></figcaption>
+</figure>
+
+这个图是我只修改了系统的名字，内容没有修改。$这里的问题我觉得可以是变化的，不是固定的，只是更好的识别这个的作用，不同的意见可以联系我$
+
+
+邮件：*root@fiskz.com*
+
 
