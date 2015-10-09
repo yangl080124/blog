@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithm
+title: 一个有意思的算法
 category: share
 comments: true
 ---
