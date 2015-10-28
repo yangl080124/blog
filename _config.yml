@@ -46,7 +46,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: /wfiskz
+url: /yangl080124
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -65,12 +65,12 @@ nav:
 
 #Author config
 author:
-    name: fiskz
-    email: root@fiskz.comt
+    name: yangl080124
+    email: 2419770252@qq.comt
     imageLink: https://avatars.githubusercontent.com/wfiskz
-    simpleIntro: 我是 fiskz
+    simpleIntro: 我是 yangl080124
     detailIntro:
-      <p> 我叫fiskz，我的身边发生了无法想象的bug,我下改下去，并且要改更多的bug。bug，等着我，我要更好的活下去，写出更好的代码。</p>
+      <p> 我叫yangl080124，我的身边发生了无法想象的bug,我下改下去，并且要改更多的bug。bug，等着我，我要更好的活下去，写出更好的代码。</p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
@@ -109,19 +109,19 @@ customLinks:
 #comment config
 disqus:
   config: true
-  id: fiskz
+  id: yangl080124
 
 
 #################################### global configure #######################################
 
-username: wfiskz
+username: yangl080124
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: Fiskz
+title: yangl080124
 description: 我要更好的活着，写出更好的代码。
 theme: kunka
-disqusname: fiskz
+disqusname: yangl080124
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
